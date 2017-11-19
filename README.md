@@ -6,7 +6,7 @@ This platform makes family work organization easier than ever. It allows definin
 if there is something to discuss it. 
 
 In real life, everyday tasks are a common thing (ex. buy bread, walk a dog, etc.). Creating that kind of tasks is very easy in this 
-platform and it will make sure they do are not forgot (yes, notifications and alerts can be set for them).
+platform and it will make sure they do are not forgot (notifications and alerts can be set for them).
 
 Some real-life tasks generate other tasks (ex. washing clothes generates dry clothes outside). This platform allows to define and use
 that kind of tasks.
